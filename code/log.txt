@@ -1,0 +1,5 @@
+python main.py
+>> Generating desired reference trajectory
+>> Generating steps.csv file for animation
+>> Writing error plot data
+>> End of program
